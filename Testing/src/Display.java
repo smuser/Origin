@@ -13,6 +13,7 @@ public class Display {
 		for(String c: test)
 		{
 			System.out.println(c);
+			System.out.println("Test");
 		}
 	}
 
