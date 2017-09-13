@@ -16,6 +16,8 @@ public class Sorting {
 		      System.out.println("Sorterd data: " +c);
 		    }
 		   System.out.println("Sorted data deleted...");
+		   System.out.println("Update needed...");
+		   System.out.println("Update needed...");
 		 }
     }
 }
