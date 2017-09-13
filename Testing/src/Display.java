@@ -8,7 +8,12 @@ public class Display {
 	}
 	public void display()
 	{
+		String[] test = {"test","ing"};
 		System.out.println("New update from display");
+		for(String c: test)
+		{
+			System.out.println(c);
+		}
 	}
 
 }
