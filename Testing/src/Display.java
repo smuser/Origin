@@ -10,11 +10,12 @@ public class Display {
 	{
 		String[] test = {"test","ing"};
 		System.out.println("New update from display");
+		System.out.println("string");
 		for(String c: test)
 		{
 			System.out.println(c);
-			System.out.println("Test");
 		}
+		System.out.println("string 1");
 	}
 
 }
