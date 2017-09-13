@@ -15,14 +15,7 @@ public class Sorting {
 		    {
 		      System.out.println("Sorterd data: " +c);
 		    }
-		    int data1[] = { 41, -15, 12, 61, 11 };
-			System.out.println("Testing sorting checkin update"); 
-		    Arrays.sort(data1);
-		 
-		    for (int c1: data1) 
-		    {
-		      System.out.println("Sorterd data: " +c1);
-		    }
+		   System.out.println("Sorted data deleted...");
 		 }
     }
 }
